@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { ApiService } from 'src/app/services/api.service';
 import { UtilService } from 'src/app/services/util.service';

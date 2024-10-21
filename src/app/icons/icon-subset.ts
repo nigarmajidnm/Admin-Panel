@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import {
   cibCcAmex,
   cibCcApplePay,

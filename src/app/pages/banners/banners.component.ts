@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { UtilService } from './../../services/util.service';
 import { ApiService } from './../../services/api.service';
 import { Component, OnInit } from '@angular/core';

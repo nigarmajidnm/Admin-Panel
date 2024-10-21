@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { ApiService } from './../../services/api.service';
 import { ModalDirective } from 'ngx-bootstrap/modal';
 import { Component, OnInit, ViewChild } from '@angular/core';

@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { UtilService } from 'src/app/services/util.service';
 import { Component } from '@angular/core';
 

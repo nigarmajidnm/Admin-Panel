@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { Component, Input } from '@angular/core';
 import { Router } from '@angular/router';
 

@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { Component } from '@angular/core';
 import { FooterComponent } from '@coreui/angular';
 import * as moment from 'moment';

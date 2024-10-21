@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ReferralComponent } from './referral.component';

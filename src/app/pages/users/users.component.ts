@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { NavigationExtras } from '@angular/router';
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { Router } from '@angular/router';

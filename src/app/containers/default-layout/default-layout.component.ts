@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { Component } from '@angular/core';
 import { UtilService } from 'src/app/services/util.service';
 import { INavData } from '@coreui/angular';

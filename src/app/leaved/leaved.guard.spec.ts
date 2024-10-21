@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { TestBed, async, inject } from '@angular/core/testing';
 
 import { LeaveGuard } from './leaved.guard';

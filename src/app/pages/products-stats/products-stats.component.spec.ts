@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ProductsStatsComponent } from './products-stats.component';

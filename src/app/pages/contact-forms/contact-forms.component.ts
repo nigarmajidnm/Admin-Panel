@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { Component, OnInit, ViewChild } from '@angular/core';
 import * as moment from 'moment';
 import { ModalDirective } from 'ngx-bootstrap/modal';

@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { Location } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
 import { ApiService } from 'src/app/services/api.service';

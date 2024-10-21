@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { Location } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';

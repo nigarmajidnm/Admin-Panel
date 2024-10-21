@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { NavigationExtras, Router } from '@angular/router';
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { ModalDirective } from 'ngx-bootstrap/modal';

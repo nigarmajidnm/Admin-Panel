@@ -1,7 +1,7 @@
 import { AuthGuard } from './guard/auth.guard';
 /*
   Authors : NigarMajid
-  
+  */
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
