@@ -3,6 +3,6 @@
   
 export const environment = {
   production: true,
-  baseUrl: 'https://api.domain.com/public/api/',
-  imageUrl: 'https://api.domain.com/public/storage/images/',
+  baseUrl: 'https://multi-salon.onrender.com/public/api/',
+  imageUrl: 'https://multi-salon.onrender.com/public/storage/images/',
 };
